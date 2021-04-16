@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.titulo_pl{
+    text-align: center;
+    padding: 100px 0px 10px 0px;
+    font-size: 55px;
+    font-family: verdana;
+    font-weight:normal;
+    box-sizing: border-box;
+}
+
+.planetas_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 20px;
+    padding: 30px 0px 0px 150px;
+    
+    
+}
+
+.planetas_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 20px;
+    padding: 40px 0px 0px 150px;
+}
+
+.img_pl{
+    border-color:black;
+    border-width:0.5px;
+    margin: 0px 0px 0px 30px;
+    border-image: initial;
+    border-style:solid;
+    border-radius:10px;
+    
+}

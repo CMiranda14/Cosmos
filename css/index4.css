@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: #03384a;
+}
+
+.titulo_lu{
+    text-align: center;
+    padding: 100px 0px 10px 0px;
+    font-size: 55px;
+    font-family: verdana;
+    font-weight:normal;
+    box-sizing: border-box;
+    color:white;
+}
+
+.partes_luna{
+     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 75px 300px 0px 300px;
+}
+
+.luna{
+     border-color:white;
+    border-width:0.5px;
+    border-image: initial;
+    border-style:solid;
+    border-radius:10px;
+}
