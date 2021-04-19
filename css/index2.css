@@ -5,7 +5,7 @@
 
 .titulo_pl{
     text-align: center;
-    padding: 100px 0px 10px 0px;
+    padding: 100px 0px 30px 0px;
     font-size: 55px;
     font-family: verdana;
     font-weight:normal;
@@ -15,19 +15,20 @@
 .planetas_1{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    width: 20px;
-    padding: 30px 0px 0px 150px;
-    
+    justify-content: center;
+    width: 0;
+    padding: 0px 0px 0px 0px;
+    margin:auto;
     
 }
 
 .planetas_2{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    width: 20px;
-    padding: 40px 0px 0px 150px;
+    justify-content: center;
+    width:;
+    padding: 40px 0px 0px 0px;
+    margin:auto;
 }
 
 .img_pl{

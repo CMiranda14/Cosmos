@@ -18,12 +18,13 @@ body{
     font-weight:normal;
     box-sizing: border-box;
     color:white;
+    margin:auto;
 }
 
 .partes_luna{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content:center;
     padding: 75px 300px 0px 300px;
     margin:auto;
 }
@@ -34,4 +35,5 @@ body{
     border-image: initial;
     border-style:solid;
     border-radius:10px;
+    margin: 0px 0px 0px 10px;
 }

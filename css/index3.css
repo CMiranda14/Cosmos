@@ -5,7 +5,7 @@
 
 .titulo_gl{
     text-align: center;
-    padding: 100px 0px 10px 0px;
+    padding: 100px 0px 50px 0px;
     font-size: 55px;
     font-family: verdana;
     font-weight:normal;
@@ -13,21 +13,21 @@
 }
 
 .contenido_gl{
-    display: flex;
+    display:flex;
     flex-direction: row;
-    justify-content: space-between;
-    width:0;
-    padding: 30px 0px 0px 300px;
+    justify-content: center;
+    margin: auto;
+    padding: 0px 200px 0px 200px;
+    width: 0;
 }
 
 .div{
     border-color:black;
     border-width:0.5px;
-    padding: 0px 50px 30px 50px;
-    border-image: initial;
     border-style:solid;
     border-radius:10px;
-    margin: 0px 100px 0px 70px;
+    padding: 0px 10px 30px 10px ;
+    margin: 0px 200px 70px 200px;
 }
 
 .via{
@@ -35,11 +35,12 @@
     font-family: verdana;
     font-weight:normal;
     font-size: 25px;
+    
 }
 
 .contenido_1{
     text-align:center;
-    padding: 10px 0px 25px 0px;
+    padding: 20px 0px 25px 0px;
 }
 
 .boton_m{
