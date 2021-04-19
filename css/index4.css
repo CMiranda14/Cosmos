@@ -2,6 +2,10 @@
     margin:0;
     padding:0;
 }
+
+header{
+    background-color: white;
+}
 body{
     background-color: #03384a;
 }
@@ -17,10 +21,11 @@ body{
 }
 
 .partes_luna{
-     display: flex;
+    display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding: 75px 300px 0px 300px;
+    margin:auto;
 }
 
 .luna{
